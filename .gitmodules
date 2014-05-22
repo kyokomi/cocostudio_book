@@ -1,4 +1,0 @@
-[submodule "_book"]
-	path = _book
-	url = git@github.com:kyokomi/cocostudio_book.git
-	branch = gh-pages
