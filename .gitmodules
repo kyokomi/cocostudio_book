@@ -1,0 +1,3 @@
+[submodule "heroku_repo"]
+	path = heroku_repo
+	url = git@heroku.com:cocostudio-gitbook.git
