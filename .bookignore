@@ -1,0 +1,4 @@
+heroku_repo
+.gitmodules
+book.json
+.bookignore
