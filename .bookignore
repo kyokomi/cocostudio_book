@@ -1,3 +1,4 @@
 .gitmodules
 book.json
 .bookignore
+_book
